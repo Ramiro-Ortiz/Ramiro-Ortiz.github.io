@@ -10,5 +10,14 @@ h1 {
 }
 
 body {
-    color : cornflowerblue
+    background-color: aquamarine;
 }
+
+img {
+    width: 500px;
+    height: 300px;
+    display: flex ; 
+    margin: 60px;
+}
+ 
+
