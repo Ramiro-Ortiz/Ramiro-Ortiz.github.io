@@ -10,7 +10,7 @@ h1 {
 }
 
 body {
-    background-color: aquamarine;
+    background-color: royalblue;
 }
 
 img {
@@ -18,6 +18,13 @@ img {
     height: 300px;
     display: flex ; 
     margin: 60px;
+    float: right;
 }
  
+ul {
+    font-size: medium;
+    color: white;
+    text-align: left;
+
+}
 
